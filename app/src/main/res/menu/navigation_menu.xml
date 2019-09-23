@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_converter"
+            android:icon="@drawable/iconsmoney100"
+            android:title="Converter Tool"/>
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/iconsnews80"
+            android:title="Finance News" />
+    </group>
+
+</menu>
